@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Computer Science student at Pasadena City College
+Computer Information Systems student at Cal Poly Pomona
 <!--
 **juanluisquispe/juanluisquispe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
